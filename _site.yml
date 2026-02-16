@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  title: "Mi sitio web"
+  right:
+    - text: "Inicio"
+      href: index.html
+    - text: "Docencia"
+      href: docencia.html
+    - text: "Investigación"
+      href: investigacion.html
+    - text: "Sobre mí"
+      href: about.html
